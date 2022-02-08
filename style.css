@@ -70,22 +70,19 @@ q {
   background-color: grey;
 }
 .item-good {
-  background-image: url("Item1.png");
-  background-repeat: no-repeat;
+  background: url("Item1.png") no-repeat 300px;
   background-size: contain;
-  padding-left: 20px;
+  padding: 10px 10px 10px 10px;
 }
 .item-mal {
-  background-image: url("Item2.png");
-  background-repeat: no-repeat;
+  background: url("Item2.png") no-repeat 300px;
   background-size: contain;
-  padding-left: 20px;
+  padding: 10px 10px 10px 10px;
 }
 .item-cat {
-  background-image: url("Item3.png");
-  background-repeat: no-repeat;
+  background: url("Item3.png") no-repeat 300px;
   background-size: contain;
-  padding-left: 20px;
+  padding: 10px 10px 10px 10px;
 }
 .floating {
   float: right;
