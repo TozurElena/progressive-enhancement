@@ -90,6 +90,10 @@ q {
 .floating {
   float: right;
 }
+.floating_left {
+  float: left;
+  margin-right: 10px;
+}
 
 section {
   margin-top: 60px;
