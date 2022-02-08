@@ -12,7 +12,7 @@ body {
   background-size: cover;
 }
 p {
-  font-family: serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   letter-spacing: 1.5px;
   color: rgb(17, 15, 95);
